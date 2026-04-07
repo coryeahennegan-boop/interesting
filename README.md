@@ -1,2 +1,2 @@
-# interesting
+# ML learning notes
 for relaxing
